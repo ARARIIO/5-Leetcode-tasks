@@ -3,3 +3,8 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.dockerignore
+Dockerfile
+LeetCodeTasks.csproj
+LeetCodeTasks.sln
+Program.cs
